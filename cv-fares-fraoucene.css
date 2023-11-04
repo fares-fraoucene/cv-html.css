@@ -55,4 +55,8 @@ height: 30px;
  h3 {
    font-weight:bolder;
  }
+ #WeAreVideo {
+   border: solid whitesmoke;
+   border-radius: 20px;
+ }
 
